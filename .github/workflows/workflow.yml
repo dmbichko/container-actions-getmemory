@@ -16,4 +16,4 @@ jobs:
         echo ${{ steps.hello.outputs.memory }}
         echo "total memory successfully output"
         echo "name machine is"
-        wcho ${{ steps.hello.outputs.name }}
+        echo ${{ steps.hello.outputs.name }}
