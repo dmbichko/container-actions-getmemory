@@ -1,11 +1,11 @@
 name: 'my first container action'
 description: 'A cloud guru'
-author: 'Chad Crowell'
+author: 'Dm Bichko'
 inputs:
   myInput:
     description: 'greeting to use'
     required: true
-    default: 'Awesome Guru'
+    default: ' Test Awesome Guru'
 outputs:
   myOutput:
     description: 'total memory'
